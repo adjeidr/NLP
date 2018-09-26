@@ -1,0 +1,33 @@
+Script started on Thu Feb 22 03:35:50 2018
+[?1034hbash-3.2$ time perl 1 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkneess.txt The\ Importance\ of\ Being\ Earnest.txt 
+Can't open perl script "1": No such file or directory
+
+real	0m0.016s
+user	0m0.003s
+sys	0m0.005s
+bash-3.2$ time perl 1 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkneess.txt The\ Importance\ of\ Being\ Earnest.txt [A[C[C[C[C[C[C[C[C[C[Cbash[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime perl 1 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkneess.txt The\ Importance\ of\ Being\ Earnest.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darknes[C[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkne[C[1@s[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Can't open perl script "2": No such file or directory
+
+real	0m0.012s
+user	0m0.004s
+sys	0m0.005s
+bash-3.2$ time perl 2 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkneess.txt The\ Importance\ of\ Being\ Earnest.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darknes[C[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkne[C[1@s[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Can't open perl script "3": No such file or directory
+
+real	0m0.010s
+user	0m0.003s
+sys	0m0.004s
+bash-3.2$ time perl 3 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkneess.txt The\ Importance\ of\ Being\ Earnest.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\ 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkn[1@e[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Dark[1@n[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkn[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkne[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darknes[C[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4 10 Adventures\ of\ Sherlock\ Holmes.txt Heart\ of\ Darkne[C[1@s[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Can't open perl script "4": No such file or directory
+
+real	0m0.012s
+user	0m0.003s
+sys	0m0.004s
+bash-3.2$ exit
+exit
+
+Script done on Thu Feb 22 03:37:54 2018

@@ -1,0 +1,73 @@
+Script started on Sat Apr 14 16:29:12 2018
+[?1034hbash-3.2$ perl decision-list.pl line-train.txt line-test.txt my-decision-list.txt > my-line-answers.txt
+bash-3.2$ head -50 my-decision-list.txt
+$VAR1 = [
+          '0.000|phone|line at',
+          '0.000|phone|line called',
+          '0.000|phone|lines last',
+          '0.000|product|line --',
+          '0.000|product|line for',
+          '0.000|product|lines have',
+          '0.0571584138399485|product|line ,',
+          '0.0645385211375712|phone|line .',
+          '0.0645385211375712|product|lines .',
+          '0.095310179804325|phone|lines ,',
+          '0.287682072451781|phone|the lines',
+          '0.405465108108164|phone|line and',
+          '0.510825623765991|phone|line to',
+          '0.693147180559945|phone|line that',
+          '0.693147180559945|phone|lines and',
+          '0.693147180559945|phone|lines at',
+          '0.693147180559945|product|his line',
+          '0.693147180559945|product|line are',
+          '0.693147180559945|product|line from',
+          '0.916290731874155|phone|lines were',
+          '1.09861228866811|phone|lines that',
+          '1.09861228866811|product|line in',
+          '1.09861228866811|product|lines of',
+          '1.94591014905531|phone|lines in',
+          '100|phone|" line',
+          '100|phone|" line noise',
+          '100|phone|"gab" lines',
+          '100|phone|"gab" lines that',
+          '100|phone|1,800 lines',
+          '100|phone|1,800 lines in',
+          '100|phone|24 lines',
+          '100|phone|24 lines and',
+          '100|phone|3,600 lines',
+          '100|phone|3,600 lines at',
+          '100|phone|442,000 lines',
+          '100|phone|442,000 lines in',
+          '100|phone|50,000 lines',
+          '100|phone|50,000 lines .',
+          '100|phone|570,000 lines',
+          '100|phone|570,000 lines ,',
+          '100|phone|<s> Lines',
+          '100|phone|<s> Lines will',
+          '100|phone|Business lines',
+          '100|phone|Business lines increased',
+          '100|phone|Hospital line',
+          '100|phone|Hospital line was',
+          '100|phone|Lines will',
+          '100|phone|The line',
+          '100|phone|The line was',
+bash-3.2$ head -10 my-line-answers.txt
+<answer instance="line-n.w8_059:8174:"> senseid="phone"/>
+<answer instance="line-n.w7_098:12684:"> senseid="phone"/>
+<answer instance="line-n.w8_106:13309:"> senseid="phone"/>
+<answer instance="line-n.w9_40:10187:"> senseid="phone"/>
+<answer instance="line-n.w9_16:217:"> senseid="phone"/>
+<answer instance="line-n.w8_119:16927:"> senseid="product"/>
+<answer instance="line-n.w8_008:13756:"> senseid="phone"/>
+<answer instance="line-n.w8_041:15186:"> senseid="phone"/>
+<answer instance="line-n.art7} senseid="phone"/>
+<answer instance="line-n.w8_119:2964:"> senseid="product"/>
+bash-3.2$ perl scorer.pl my-line-answers.txt line-key.txt
+71.6535433070866% 
+       |product| |phone| 
+|product|   38   | 16   | 
+|phone|   20   | 53   | 
+bash-3.2$ exit
+exit
+
+Script done on Sat Apr 14 16:30:03 2018

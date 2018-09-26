@@ -1,0 +1,157 @@
+Derrick Adjei
+
+WHEN
+_____________________
+Question 1: When was George Washington born?
+
+Correct Answer : George Washington was born on February 22, 1732.
+
+My System Answer : George Washington is born on February 22, 1732 (correct)
+
+Question 2: When was Kim Kardashian born?
+
+Correct Answer : Kimberly Kardashian is born on West born October 21, 1980
+
+My System Answer : Kimberly Kardashian is born on West born October 21, 1980 (correct)
+
+Question 3: When was World War I?
+
+Correct Answer : Text that includes dates 28 July 1914 to 11 November 1918
+
+My System Answer : World War I , also known as the First World War, the Great
+War, or the War to End All Wars, was a global war originating in Europe that
+lasted from 28 July 1914 to 11 November 1918. (correct)
+
+Question 4: When was D-Day?
+
+Correct Answer : text that includes date of 6 June 1944
+
+My System Answer : The Normandy landings were the landing operations on Tuesday,
+6 June 1944 of the Allied invasion of Normandy in Operation Overlord during
+World War II. (correct)
+
+Question 5: When was the Great Depression?
+
+Correct Answer : text that involved 1929 and/or 1930s
+
+My System Answer : s [[Migrant Mother]] depicts destitute pea pickers in
+California, centering on Florence Owens Thompson, age 32, a mother of seven
+children, in Nipomo, California, March 1936.]]   The Great Depression was a
+severe worldwide economic depression that took place mostly during the 1930s,
+beginning in the United States. (incorrect)
+
+WHAT
+_____________________
+Question 1: What is a Bicycle?
+
+Correct Answer : a human-powered, pedal-driven, single-track vehicle, having
+two wheels attached to a frame, one behind the other. A bicycle rider is called
+a cyclist, or bicyclist
+
+My System Answer : of any kind in the world—is the Chinese Flying Pigeon, with
+about 500 million  produced. ]]   A bicycle, also called a cycle or bike, is a
+human-powered, pedal-driven, single-track vehicle, having two wheels attached
+to a frame, one behind the other. (correct)
+
+Question 2: What is a Baby?
+
+Correct Answer : An infant is the more formal or specialised synonym for "baby",
+the very young offspring of a human.
+
+My System Answer : An infant  is the more formal or specialised synonym for
+"baby", the very young offspring of a human. (correct)
+
+Question 3: What is a pencil?
+
+Correct Answer : A pencil is a writing implement or art medium constructed of a
+narrow, solid pigment core inside a protective casing which prevents the core
+from being broken and/or from leaving marks on the user’s hand during use.
+
+My System Answer : pencils]] ]]  A pencil is a writing implement or art medium
+constructed of a narrow, solid pigment core inside a protective casing which
+prevents the core from being broken and/or from leaving marks on the user’s hand during use. (correct)
+
+Question 4: What are Cars?
+
+Correct Answer : A car is a wheeled motor vehicle used for transportation.
+
+My System Answer : A car  is a wheeled motor vehicle used for transportation. (correct)
+
+Question 5: What is a Gimble?
+
+Correct Answer : A gimbal is a pivoted support that allows the rotation of an object about a single axis.
+
+My System Answer : A gimbal is a pivoted support that allows the rotation of an object about a single axis. (correct)
+
+WHO
+_____________________
+Question 1: Who is Barack Obama?
+
+Correct Answer : Barack Hussein Obama II  is an American politician who served
+as the 44th President of the United States from January 20, 2009 to January 20, 2017.
+
+My System Answer : Barack Hussein Obama II  is an American politician who served
+as the 44th President of the United States from January 20, 2009 to January 20, 2017. (correct)
+
+Question 2: Who is LeBron James?
+
+Correct Answer : LeBron Raymone James Sr. is an American professional basketball
+player for the Cleveland Cavaliers of the National Basketball Association (NBA).
+
+My System Answer : LeBron Raymone James Sr.  is an American professional
+basketball player for the Cleveland Cavaliers of the National Basketball Association (correct)
+
+Question 3: Who is Kanye West?
+
+Correct Answer : Kanye Omari West is an American rapper, songwriter, entrepreneur and fashion designer.
+
+My System Answer : Kanye Omari West  is an American rapper, songwriter, entrepreneur and fashion designer. (correct)
+
+Question 4: Who are The Beatles?
+
+Correct Answer : The Beatles were an English rock band formed in Liverpool in 1960.
+
+My System Answer : The Beatles were an English rock band formed in Liverpool in 1960. (correct)
+
+Question 5: Who was the first man to climb Mount Everest?
+
+Correct Answer : Sir Edmund Percival Hillary
+
+My System Answer : I am sorry, I don't know the answer. (incorrect)
+
+WHERE
+_____________________
+Question 1: Where was George Washington born?
+
+Correct Answer : Popes Creek, Colony of Virginia, British America
+
+My System Answer : George Washington  was born in  Popes Creek, Colony of Virginia, British America (correct)
+
+Question 2: Where is Richmond, Virginia?
+
+Correct Answer : located at the fall line of the James River, 44 miles (71 km)
+west of Williamsburg, 66 miles (106 km) east of Charlottesville, and 98 miles
+(158 km) south of Washington, D.C. Surrounded by Henrico and Chesterfield counties,
+the city is located at the intersections of Interstate 95 and Interstate 64, and
+encircled by Interstate 295 and Virginia State Route 288.
+
+My System Answer : Richmond, Virginia is located at the fall line of the James
+River, west of Williamsburg, east of Charlottesville, and south of Washington, D.C.(incorrect)
+
+Question 3: Where is Rome?
+
+Correct Answer : located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber.
+
+My System Answer : Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber (correct)
+
+Question 4: Where is Dallas?
+
+Correct Answer : a city in the U.S. state of Texas.
+
+My System Answer : Dallas is located in North Texas, Dallas is the main core of the largest metropolitan area in the South and the largest inland metropolitan area in the United States that lacks any navigable link to the sea (incorrect)
+
+Question 5: Where is Ghana?
+
+Correct Answer : located along the Gulf of Guinea and Atlantic Ocean, in the subregion of West Africa.
+
+My System Answer : Ghana is located along the Gulf of Guinea and Atlantic Ocean, in the subregion of West Africa (correct)

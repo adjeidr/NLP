@@ -1,0 +1,1561 @@
+Question: When was George Washington born?
+Raw Results:
+
+
+
+
+{{Infobox officeholder
+| name = George Washington office = President of the United States order = 1st
+| image = Gilbert Stuart Williamstown Portrait of George Washington.jpgborder
+| caption = George Washington by Gilbert Stuart, 1797 predecessor = position
+| established successor = John Adams vicepresident = John Adams footnotes =
+{{collapsible list
+| titlestyle = background; title = Other offices held bullets = on Member of the
+| Virginia House of Burgesses (1758–1765) }} signature = George Washington
+| signature.svg signature_alt = Cursive signature in ink appointer2 =
+| Continental Congress office2 = Commander-in-Chief of theContinental Army
+| predecessor2 = position established party = None appointer1 = John Adams
+| office1 = Senior Officer of the U.S. Army predecessor1 = James Wilkinson
+| successor1 = Alexander Hamilton successor2 = Henry Knox birth_date =
+| birth_place = Popes Creek, Colony of Virginia, British America death_date =
+| death_place = Mount Vernon, Virginia, U.S. parents = Augustine Washington Mary
+| Ball spouse = allegiance = Kingdom of Great BritainUnited States of America
+| branch =Colonial MilitiaContinental ArmyUnited States Army serviceyears =
+| 1752–58 (British Militia)1775–83 (Continental Army)1798–99 (U.S. Army) rank
+| =Colonel (British Army)General and Commander-in-Chief (Continental
+| Army)Lieutenant General (United States Army)General of the Armies (promoted
+| posthumously: 1976, by an Act of Congress) commands = Virginia Colony's
+| regimentContinental ArmyUnited States Army battles = {{hidden
+|See battles
+|
+* French and Indian War
+* Battle of Jumonville Glen
+* Battle of Fort Necessity
+* Braddock Expedition
+* Battle of the Monongahela
+* Forbes Expedition
+* American Revolutionary War
+* Boston campaign
+* New York and New Jersey campaign
+* Philadelphia campaign
+* Yorktown campaign
+* Northwest Indian War
+|-
+|headerstyle=background:#dbdbdb |style=text-align:center; }}
+| awards = Congressional Gold MedalThanks of Congress term_start = April 30,
+| 1789 term_end = March 4, 1797 term_start1 = July 13, 1798 term_end1 = December
+| 14, 1799 term_start2 = June 15, 1775 term_end2 = December 23, 1783 office3 =
+| Delegate to the Second Continental Congress from Virginia term_start3 = May
+| 10, 1775 term_end3 = June 15, 1775 predecessor3 = Position established
+| successor3 = Thomas Jefferson office4 = Delegate to the First Continental
+| Congressfrom Virginia term_start4 = September 5, 1774 term_end4 = October 26,
+| 1774 predecessor4 = Position established successor4 = Position abolished
+| death_cause = Epiglottitis and hypovolemic shock restingplace = Washington
+| Family Tomb, Mount Vernon, Virginia, U.S.
+}}
+
+'George Washington' (February 22, 1732}}&nbsp;– , 1799) was an American
+statesman and soldier who served as the first President of the United States
+from 1789 to 1797 and was one of the Founding Fathers of the United States. He
+served as Commander-in-Chief of the Continental Army during the American
+Revolutionary War, and later presided over the 1787 convention that drafted the
+United States Constitution. As a driving force behind the nation's establishment
+he came to be known as the "father of the country," both during his lifetime and
+to this day.
+
+Washington was born into the provincial gentry of Colonial Virginia to a family
+of wealthy planters who owned tobacco plantations and slaves, which he
+inherited. In his youth, he became a senior officer in the colonial militia
+during the first stages of the French and Indian War. He gradually grew
+indifferent to British rule with its lack of colonial representation in British
+Parliament and excessive taxation on the colonies. In 1775, the Second
+Continental Congress commissioned him as commander-in-chief of the Continental
+Army in the American Revolution. In that command, Washington drove the British
+out of Boston in 1776, but was defeated and nearly captured later that year when
+he lost New York City. After crossing the Delaware River in the middle of
+winter, he defeated the British in two battles, retook New Jersey, and restored
+momentum to the Patriot cause. Washington's strategy enabled Continental forces
+to ultimately defeat the British. Historians laud Washington for the selection
+and supervision of his generals, preservation and command of the army,
+coordination with the Congress, state governors, and their militia, and
+attention to supplies, logistics, and training. In battle, however, Washington
+was sometimes outmaneuvered by British generals with larger armies, yet was
+always able to avoid significant defeats which would have resulted in the
+surrender of his army and the loss of the American Revolution.
+
+After victory had been finalized in 1783, Washington resigned as commander-in-
+chief rather than remaining in power, proving his commitment to American
+republicanism. Washington presided over the Constitutional Convention in 1787,
+which devised a new form of federal government for the United States. Washington
+was widely admired for his strong leadership qualities and was unanimously
+elected president by the Electoral College in the first two national elections.
+Following his election as president in 1789, he worked to unify rival factions
+in the fledgling nation. He helped pass Alexander Hamilton's programs to satisfy
+federal and state debts to establish a permanent seat of government, to
+implement an effective tax system, and to create a national bank.
+
+In avoiding war with Great Britain, he guaranteed a decade of peace and
+profitable trade by securing the Jay Treaty in 1795, despite intense opposition
+from the Jeffersonians. He oversaw the creation of a strong, well-financed
+national government that maintained neutrality in the French Revolutionary
+Wars, suppressed the Whiskey Rebellion, and won wide acceptance among
+Americans. Washington's incumbency established many precedents still in use
+today, such as the cabinet system, the inaugural address, and the title Mr.
+President. His retirement from office after two terms established a tradition
+that lasted until 1940 and was later made law by the 22nd Amendment. He
+remained non-partisan, never joining the Federalist Party, although he largely
+supported its policies. By 1794, Congress was divided between two parties, that
+had stemmed from a political-personal feud between Washington's two
+secretaries, Hamilton and Thomas Jefferson. Washington's Farewell Address was
+an influential primer on civic virtue, warning against partisanship,
+sectionalism, and involvement in foreign wars.
+
+He retired from the presidency in 1797, returning to his home and beloved
+plantation at Mount Vernon. Upon his death, Washington was eulogized as "first
+in war, first in peace, and first in the hearts of his countrymen". He was
+revered in life and in death; scholarly and public polling consistently ranks
+him among the top three presidents in American history. He has been depicted and
+remembered in monuments, public works, currency, and other dedications to the
+present day.
+
+
+My System Answer: George Washington is born on February 22, 1732
+Question: When was Kim Kardashian born?
+Raw Results:
+
+
+
+
+{{Infobox person
+| name = Kim Kardashian image = File:Kim Kardashian 2, 2012.jpg caption =
+| Kardashian in 2012 birth_name = Kimberly Noel Kardashian birth_date =
+| birth_place = Los Angeles, California, United States occupation = {{flat list|
+* Television personality
+* socialite
+* actress
+* businesswoman
+* model }}
+| years_active = 2007–present salary = million|link=yes}} (2015) net_worth =
+| television = [[Keeping Up with the Kardashians]] spouse = {{plain list|
+*
+*
+* }}
+| children = 3 parents = {{plain list|
+*Robert Kardashian (father) *Kris Jenner (mother) }}
+| relatives = {{plain list|
+* Kourtney Kardashian (sister)
+* Khloé Kardashian (sister)
+* Rob Kardashian (brother)
+* Kendall Jenner (half-sister)
+* Kylie Jenner (half-sister) }}
+| website = signature =
+}}
+
+'Kimberly Kardashian West' (born October 21, 1980) is an American reality
+television personality. Kardashian first gained media attention as a friend and
+stylist of Paris Hilton, but received wider notice after a 2003 sex tape with
+her former boyfriend Ray J was leaked in 2007. Later that year, she and her
+family began to appear in the E! reality television series [[Keeping Up with the
+Kardashians]]. Its success soon led to the creation of spin-offs including
+[[Kourtney and Kim Take New York]] and [[Kourtney and Khloé Take Miami]].
+Kardashian's personal life soon became subject to widespread media attention.
+
+In recent years, Kardashian has grown an influential online and social media
+presence, including tens of millions of followers on Twitter and Instagram. She
+has released a variety of products tied to her name, including the successful
+2014 mobile game [[Kim Kardashian: Hollywood]], a variety of clothing and
+products, and the 2015 photo book [[Selfish (book)|Selfish]]. Her relationship
+with rapper Kanye West has also received significant media coverage; the couple
+married in 2014 and they have three children together.Caramanica, Jon. [https://www.nytimes.com/2015/04/10/t-magazine/kanye-west-adidas-yeezy-fashion-
+interview.html?_r=0 "The Agony and the Ecstasy of Kanye West."] [[New York
+Times]]. April 10, 2015.
+
+[[Time (magazine)|Time]] magazine included Kardashian on their list of 2015's
+100 most influential people, while [[Vogue Magazine|Vogue]] described her in
+2016 as a "pop culture phenomenon." Critics and admirers have described her as
+exemplifying the notion of being famous for being famous. She was reported to be
+the highest-paid reality television personality of 2015, with her total earnings
+exceeding US$53 million.Forbes [https://www.forbes.com/profile/kim-kardashian/
+"Kim Kardashian"] Retrieved on December 6, 2015.
+
+
+My System Answer: Kimberly Kardashian is born on West born October 21, 1980
+Question: When was World War I?
+Raw Results:
+
+
+
+
+
+{{Infobox military conflict
+| conflict = World War I image = WWImontage.jpg image_size = 300px caption =
+| 'Clockwise from the top': The aftermath of shelling during the Battle of the
+| Somme, Mark V tanks cross the Hindenburg Line, sinks after hitting a mine in
+| the Dardanelles, a British Vickers machine gun crew wears gas masks during the
+| Battle of the Somme, Albatros D.III fighters of Jagdstaffel 11 date = ()
+{{Collapsible list
+| bullets = yes title = Peace treaties
+|Treaty of VersaillesSigned 28 June 1919() |Treaty of Saint-Germain-en-
+LayeSigned 10 September 1919() |Treaty of Neuilly-sur-SeineSigned 27 November
+1919() |Treaty of TrianonSigned 4 June 1920() |Treaty of SèvresSigned 10 August
+1920() |United States–Austria Peace TreatySigned 24 August 1921() |United
+States–Germany Peace TreatySigned 25 August 1921() |United States–Hungary Peace
+TreatySigned 29 August 1921() |Treaty of LausanneSigned 24 July 1923() }}
+| place = Europe, Africa, the Middle East, the Pacific Islands, China, Indian
+| Ocean, and off the coast of South and North America casus = Assassination of
+| Archduke Franz Ferdinand (28 June) followed by Austro-Hungarian declaration of
+| war on Kingdom of Serbia (28 July) and Russian mobilisation against Austria-
+| Hungary (29 July). result = Allied victory
+* Central Powers' victory on the Eastern Front nullified by defeat on the
+  Western Front
+* Fall of the German, Russian, Ottoman, and Austro-Hungarian empires
+* Russian Civil War and foundation of the Soviet Union
+* Formation of new countries in Europe and the Middle East
+* Transfer of German colonies and regions of the former Ottoman Empire to
+  other powers
+* Establishment of the League of Nations. (more...)
+| combatant1 = '[[Allies of World War I|Allied Powers]]'{{plainlist|
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*  Hejaz
+*
+*  Siam
+* }}
+| combatant2 = '[[Central Powers]]'{{plainlist|
+*
+*
+*
+*
+* }}
+| commander1 = '[[Allies of World War I#Leaders|Allied leaders]]'{{plainlist|
+*  Raymond Poincaré
+*  Georges Clemenceau
+*  H. H. Asquith
+*  David Lloyd George
+*  Nicholas II
+*  Victor Emmanuel III
+*  Vittorio Orlando
+*  Woodrow Wilson
+*  Yoshihito
+*  Peter I
+*  Ferdinand I
+*  Eleftherios Venizelos
+* }}
+| commander2 = '[[Central Powers#Leaders|Central Powers leaders]]'{{plainlist|
+*  Wilhelm II
+*  Franz Joseph I †
+*  Karl I
+*  Mehmed V †
+*  Mehmed VI
+*  Three Pashas
+*  Ferdinand I
+* }}
+| strength1 = {{plainlist|
+*  12,000,000
+*  8,841,541Figures are for the British Empire
+*  8,660,000Figures are for Metropolitan France and its colonies
+*  5,615,140
+*  4,743,826
+*  1,234,000
+*  800,000
+*  707,343
+*  380,000
+*  250,000
+*  50,000}} Total: 42,959,850
+| strength2 = {{plainlist|
+*  13,250,000
+*  7,800,000
+*  2,998,321
+*  1,200,000}} Total: 25,248,321
+| casualties1 = {{plainlist|
+* 'Military dead:' 5,525,000
+* 'Military wounded:' 12,831,500
+* 'Total:' 18,356,500&nbsp;KIA, WIA and MIA
+* 'Civilian dead:' 4,000,000}}
+
+| casualties2 = {{plainlist|
+* 'Military dead:' 4,386,000
+* 'Military wounded:' 8,388,000
+* 'Total:' 12,774,000&nbsp;KIA, WIA and MIA
+* 'Civilian dead:' 3,700,000}}
+
+| campaignbox =
+}}
+
+
+'World War I' (often abbreviated to 'WWI' or 'WW1'), also known as the 'First
+World War', the 'Great War', or the 'War to End All Wars', was a global war
+originating in Europe that lasted from 28 July 1914 to 11 November 1918. More
+than 70&nbsp;million military personnel, including 60 million Europeans, were
+mobilised in one of the largest wars in history. Over nine million combatants
+and seven million civilians died as a result of the war (including the victims
+of a number of genocides), a casualty rate exacerbated by the belligerents'
+technological and industrial sophistication, and the tactical stalemate caused
+by gruelling trench warfare. It was one of the deadliest conflicts in history
+and precipitated major political change, including the Revolutions of 1917–1923
+in many of the nations involved. Unresolved rivalries at the end of the conflict
+contributed to the start of the Second World War twenty-one years later.
+
+The war drew in all the world's economic great powers, assembled in two opposing
+alliances: the Allies (based on the Triple Entente of the Russian Empire, the
+French Third Republic, and the United Kingdom of Great Britain and Ireland)
+versus the Central Powers of Germany and Austria-Hungary. Although Italy was a
+member of the Triple Alliance alongside Germany and Austria-Hungary, it did not
+join the Central Powers, as Austria-Hungary had taken the offensive against the
+terms of the alliance. These alliances were reorganised and expanded as more
+nations entered the war: Italy, Japan and the United States joined the Allies,
+while the Ottoman Empire and Bulgaria joined the Central Powers.
+
+The trigger for the war was the assassination of Archduke Franz Ferdinand of
+Austria, heir to the throne of Austria-Hungary, by Yugoslav nationalist Gavrilo
+Princip in Sarajevo on 28 June 1914. This set off a diplomatic crisis when Austria-
+Hungary delivered an ultimatum to the Kingdom of Serbia and, as a result, entangled-international-
+alliances, formed over the previous decades, were invoked. Within weeks the
+major powers were at war, and the conflict soon spread around the world.
+
+Russia was the first to order a partial mobilisation of its armies on 24–25
+July, and when on 28 July Austria-Hungary declared war on Serbia, Russia
+declared general mobilisation on 30 July. Germany presented an ultimatum to
+Russia to demobilise, and when this was refused, declared war on Russia on 1
+August. Being outnumbered on the Eastern Front, Russia urged its Triple Entente
+ally France to open up a second front in the west.
+
+Japan entered the war on the side of the Allies on 23 August 1914, seizing the
+opportunity of Germany's distraction with the European War to expand its sphere
+of influence in China and the Pacific.
+
+Over forty years earlier in 1870, the Franco-Prussian War had ended the Second
+French Empire and France had ceded the provinces of Alsace-Lorraine to a unified
+Germany. Bitterness over that defeat and the determination to retake Alsace-
+Lorraine made the acceptance of Russia's plea for help an easy choice, so France
+began full mobilisation on 1 August and, on 3 August, Germany declared war on
+France. The border between France and Germany was heavily fortified on both
+sides so, according to the Schlieffen Plan, Germany then invaded neutral Belgium
+and Luxembourg before moving towards France from the north, leading the United
+Kingdom to declare war on Germany on 4 August due to their violation of Belgian
+neutrality.
+
+After the German march on Paris was halted in the Battle of the Marne, what
+became known as the Western Front settled into a battle of attrition, with a
+trench line that changed little until 1917. On the Eastern Front, the Russian
+army led a successful campaign against the Austro-Hungarians, but the Germans
+stopped its invasion of East Prussia in the battles of Tannenberg and the
+Masurian Lakes. In November 1914, the Ottoman Empire joined the Central Powers,
+opening fronts in the Caucasus, Mesopotamia, and the Sinai Peninsula. In 1915,
+Italy joined the Allies and Bulgaria joined the Central Powers. Romania joined
+the Allies in 1916. After the sinking of seven US merchant ships by German
+submarines, and the revelation that the Germans were trying to get Mexico to
+make war on the United States, the US declared war on Germany on 6 April 1917.
+
+The Russian government collapsed in March 1917 with the February Revolution, and
+the October Revolution followed by a further military defeat brought the
+Russians to terms with the Central Powers via the Treaty of Brest-Litovsk, which
+granted the Germans a significant victory. After the stunning German Spring
+Offensive along the Western Front in the spring of 1918, the Allies rallied and
+drove back the Germans in the successful Hundred Days Offensive. On 4 November
+1918, the Austro-Hungarian empire agreed to the Armistice of Villa Giusti, and
+Germany, which had its own trouble with revolutionaries, agreed to an armistice
+on 11 November 1918, ending the war in victory for the Allies.
+
+By the end of the war or soon after, the German Empire, Russian Empire, Austro-
+Hungarian Empire and the Ottoman Empire ceased to exist. National borders were
+redrawn, with nine independent nations restored or created, and Germany's
+colonies were parcelled out among the victors. During the Paris Peace Conference
+of 1919, the Big Four powers (Britain, France, the United States and Italy)
+imposed their terms in a series of treaties. The League of Nations was formed
+with the aim of preventing any repetition of such a conflict. This effort
+failed, and economic depression, renewed nationalism, weakened successor states,
+and feelings of humiliation (particularly in Germany) eventually contributed to
+the start of World War II.
+
+
+My System Answer: World War I , also known as the First World War, the Great War, or the War to End All Wars, was a global war originating in Europe that lasted from 28 July 1914 to 11 November 1918.
+
+Question: When was D-Day?
+Raw Results:
+
+
+
+
+
+
+
+{{Infobox military conflict
+| conflict = Normandy landings partof = Operation Overlord, Invasion of Normandy
+| image = caption = Men of the 16th Infantry Regiment, U.S. 1st Infantry
+| Division wade ashore on Omaha Beach on the morning of 6 June 1944 date = place
+| = Normandy, France territory = Five Allied beachheads established in Normandy
+| result = Decisive Allied victory combatant1 = {{plainlist |
+*
+*
+*
+*
+*  Belgium
+*  Czechoslovakia
+*
+*
+*  Greece
+*  Netherlands
+*
+*  Norway
+*  Poland }}
+| combatant2 = commander1 = {{plainlist |
+*  Dwight D. Eisenhower
+*  Bernard Montgomery
+*  Omar Bradley
+*  Miles Dempsey
+*  Trafford Leigh-Mallory
+*  Bertram Ramsay
+*  Arthur Tedder }}
+| commander2 = {{plainlist |
+*  Gerd von Rundstedt
+*  Erwin Rommel
+*  Leo Geyr von Schweppenburg
+*  Friedrich Dollmann
+*  Hans von Salmuth
+*  Wilhelm Falley }}
+| units1 =; First Army
+Omaha Beach: ;V Corps
+* 1st Infantry Division
+* 29th Infantry Division Utah Beach: ;VII Corps
+* 4th Infantry Division
+* 82nd Airborne Division
+* 90th Infantry Division
+* 101st Airborne Division
+
+; Second Army
+Gold Beach ;XXX Corps
+* 50th Infantry Division Juno Beach ;I Corps
+* 3rd Canadian Infantry Division Sword Beach ;I Corps
+* 3rd Infantry Division
+* 6th Airborne Division
+| units2 =; 5th Panzer Army
+South of Caen
+* 21st Panzer Division
+; 7th Army
+Omaha
+* 352nd Infantry Division Utah Beach
+* 709th Static Division Gold, Juno, and Sword
+* 716th Static Division
+| strength1 = 156,000 strength2 = 50,350+170 coastal artillery guns. Includes
+| guns from 100mm to 210mm, as well as 320mm rocket launchers. casualties1 =
+| 10,000+ casualties; 4,414 confirmed dead185 M4 Sherman tanks casualties2 =
+| 4,000–9,000 casualties notes =
+}}
+
+
+The 'Normandy landings' were the landing operations on Tuesday, 6 June 1944 of
+the Allied invasion of Normandy in Operation Overlord during World War II.
+Codenamed 'Operation Neptune' and often referred to as '[[D-Day (military term)|D-
+Day]]', it was the largest seaborne invasion in history. The operation began the
+liberation of German-occupied northwestern Europe from Nazi control, and laid
+the foundations of the Allied victory on the Western Front.
+
+Planning for the operation began in 1943. In the months leading up to the
+invasion, the Allies conducted a substantial military deception, codenamed
+Operation Bodyguard, to mislead the Germans as to the date and location of the
+main Allied landings. The weather on D-Day was far from ideal and the operation
+had to be delayed 24 hours; a further postponement would have meant a delay of
+at least two weeks as the invasion planners had requirements for the phase of
+the moon, the tides, and the time of day that meant only a few days each month
+were deemed suitable. Adolf Hitler placed German Field Marshal Erwin Rommel in
+command of German forces and of developing fortifications along the Atlantic
+Wall in anticipation of an Allied invasion.
+
+The amphibious landings were preceded by extensive aerial and naval bombardment
+and an airborne assault—the landing of 24,000 American, British, and Canadian
+airborne troops shortly after midnight. Allied infantry and armoured divisions
+began landing on the coast of France at 06:30. The target stretch of the
+Normandy coast was divided into five sectors: Utah, Omaha, Gold, Juno, and
+Sword. Strong winds blew the landing craft east of their intended positions,
+particularly at Utah and Omaha. The men landed under heavy fire from gun
+emplacements overlooking the beaches, and the shore was mined and covered with
+obstacles such as wooden stakes, metal tripods, and barbed wire, making the work
+of the beach-clearing teams difficult and dangerous. Casualties were heaviest at
+Omaha, with its high cliffs. At Gold, Juno, and Sword, several fortified towns
+were cleared in house-to-house fighting, and two major gun emplacements at Gold
+were disabled, using specialised tanks.
+
+The Allies failed to achieve any of their goals on the first day. Carentan, St.
+Lô, and Bayeux remained in German hands, and Caen, a major objective, was not
+captured until 21 July. Only two of the beaches (Juno and Gold) were linked on
+the first day, and all five beachheads were not connected until 12 June;
+however, the operation gained a foothold which the Allies gradually expanded
+over the coming months. German casualties on D-Day have been estimated at 4,000
+to 9,000 men. Allied casualties were at least 10,000, with 4,414 confirmed dead.
+
+Museums, memorials, and war cemeteries in the area now host many visitors
+each year.
+
+
+My System Answer: The Normandy landings were the landing operations on Tuesday, 6 June 1944 of the Allied invasion of Normandy in Operation Overlord during World War II.
+
+Question: When was the Great Depression?
+Raw Results:
+
+'s [[Migrant Mother]] depicts destitute pea pickers in California, centering on
+Florence Owens Thompson, age 32, a mother of seven children, in Nipomo,
+California, March 1936.]]
+
+
+
+The 'Great Depression' was a severe worldwide economic depression that took
+place mostly during the 1930s, beginning in the United States. The timing of the
+Great Depression varied across nations; in most countries it started in 1929 and
+lasted until the late-1930s.John A. Garraty, The Great Depression (1986) It was
+the longest, deepest, and most widespread depression of the 20th century.Charles
+Duhigg, "Depression, You Say? Check Those Safety Nets", The New York Times,
+March 23, 2008. In the 21st century, the Great Depression is commonly used as an
+example of how far the world's economy can decline.Barry Eichengreen, Hall of
+Mirrors: The Great Depression, The Great Recession, and the Uses-and Misuses-of
+History (2014)
+
+The Great Depression started in the United States after a major fall in stock
+prices that began around September 4, 1929, and became worldwide news with the
+stock market crash of October 29, 1929 (known as Black Tuesday). Between 1929
+and 1932, worldwide gross domestic product (GDP) fell by an estimated 15%. By
+comparison, worldwide GDP fell by less than 1% from 2008 to 2009 during the
+Great Recession.Roger Lowenstein, "History Repeating," [https://www.wsj.com/articles/book-review-hall-of-mirrors-by-barry-eichengreen-
+1421192283?autologin=y Wall Street Journal Jan 14, 2015] Some economies started
+to recover by the mid-1930s. However, in many countries, the negative effects of
+the Great Depression lasted until the beginning of World War II.Garraty, Great
+Depression (1986) ch1
+
+The Great Depression had devastating effects in countries both rich and poor.
+Personal income, tax revenue, profits and prices dropped, while international
+trade plunged by more than 50%. Unemployment in the U.S. rose to 25% and in some
+countries rose as high as 33%.
+
+Cities around the world were hit hard, especially those dependent on heavy
+industry. Construction was virtually halted in many countries. Farming
+communities and rural areas suffered as crop prices fell by about 60%. Facing
+plummeting demand with few alternative sources of jobs, areas dependent on
+primary sector industries such as mining and logging suffered the most.Mitchell,
+Depression Decade
+
+
+My System Answer: s [[Migrant Mother]] depicts destitute pea pickers in California, centering on Florence Owens Thompson, age 32, a mother of seven children, in Nipomo, California, March 1936.]]    The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States.
+
+Question: What is a Bicycle?
+Raw Results:
+
+
+ of any kind in the world—is the Chinese Flying Pigeon, with about 500 million
+ produced. ]]
+
+
+A 'bicycle', also called a 'cycle' or 'bike', is a human-powered, pedal-driven,
+single-track vehicle, having two wheels attached to a frame, one behind the
+other. A is called a cyclist, or bicyclist.
+
+Bicycles were introduced in the late 19th century in Europe, and by the early
+21st century, more than 1 billion have been produced worldwide. These numbers
+far exceed the number of cars, both in total and ranked by the number of
+individual models produced. They are the principal means of transportation in
+many regions. They also provide a popular form of recreation, and have been
+adapted for use as children's toys, general fitness, military and police
+applications, courier services, bicycle racing and bicycle stunts.
+
+The basic shape and configuration of a typical upright or "safety bicycle", has
+changed little since the first chain-driven model was developed around 1885. But
+many details have been improved, especially since the advent of modern materials
+and computer-aided design. These have allowed for a proliferation of specialized
+designs for many types of cycling.
+
+The bicycle's invention has had an enormous effect on society, both in terms of
+culture and of advancing modern industrial methods. Several components that
+eventually played a key role in the development of the automobile were initially
+invented for use in the bicycle, including ball bearings, pneumatic tires, chain-
+driven sprockets and tension-spoked wheels.Heitmann JA. The Automobile and
+American Life. McFarland, 2009, , pp. 11 and following
+
+My System Answer: of any kind in the world—is the Chinese Flying Pigeon, with about 500 million  produced. ]]   A bicycle, also called a cycle or bike, is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other.
+
+Question: What is a Baby?
+Raw Results:
+
+
+
+
+An 'infant' (from the Latin word infans, meaning "unable to speak" or
+"speechless") is the more formal or specialised synonym for "'baby'", the very
+young offspring of a human. The term may also be used to refer to juveniles of
+other organisms.
+
+A 'newborn' is, in colloquial use, an infant who is only hours, days, or up to
+one month old. In medical contexts, newborn or 'neonate' (from Latin, neonatus,
+newborn) refers to an infant in the first 28 days after birth; the term applies
+to premature, full term, and postmature infants; before birth, the term "fetus"
+is used. The term "infant" is typically applied to young children between one
+month and one year of age; however, definitions may vary and may include
+children up to two years of age. When a human child learns to walk, the term
+"toddler" may be used instead.
+
+In British English, an infant school is for children aged between four and
+seven. As a legal term, "infancy" continues from birth until age 18.
+
+My System Answer: An infant  is the more formal or specialised synonym for "baby", the very young offspring of a human.
+
+Question: What is a pencil?
+Raw Results:
+
+
+
+ pencils]] (Caran d'Ache)]]
+
+A 'pencil' is a writing implement or art medium constructed of a narrow, solid
+pigment core inside a protective casing which prevents the core from being
+broken and/or from leaving marks on the user’s hand during use.
+
+Pencils create marks by physical abrasion, leaving behind a trail of solid core
+material that adheres to a sheet of paper or other surface. They are distinct
+from pens, which instead disperse a trail of liquid or gel ink that stains the
+light colour of the paper by absorption.
+
+Most pencil cores are made of graphite mixed with a clay binder which leaves
+grey or black marks that can be easily erased. Graphite pencils are used for
+both writing and drawing and result in durable markings: though writing is
+easily removable with an eraser, it is otherwise resistant to moisture, most
+chemicals, ultraviolet radiation, and natural aging. Other types of pencil core
+are less widely used, such as charcoal pencils, which are mainly used by artists
+for drawing and sketching. Coloured pencils are sometimes used by teachers or
+editors to correct submitted texts, but are typically regarded as art supplies,
+especially those with waxy core binders that tend to smear on paper instead of
+erasing. Grease pencils have a softer, crayon-like waxy core that can leave
+marks on smooth surfaces such as glass or porcelain.
+
+The most common type of pencil casing is of thin wood, usually hexagonal in
+section but sometimes cylindrical, permanently bonded to the core. Similar
+permanent casings may be constructed of other materials such as plastic or
+paper. To use the pencil, the casing must be carved or peeled off to expose the
+working end of the core as a sharp point. Mechanical pencils have more elaborate
+casings which are not permanently bonded to the core. Instead, the casing
+supports a separate, mobile piece of pigment core that can be extended or
+retracted through the casing tip as needed; these pencil casings can be re-
+loaded with a new core (usually graphite) when necessary.
+
+My System Answer: pencils]] ]]  A pencil is a writing implement or art medium constructed of a narrow, solid pigment core inside a protective casing which prevents the core from being broken and/or from leaving marks on the user’s hand during use.
+
+Question: What are Cars?
+Raw Results:
+
+
+
+
+{{Infobox machine
+| name = Car image = caption = Modern cars and trucks driving on an expressway
+| in Ontario, Canada. classification = Vehicle industry = Various application =
+| dimensions = weight = fuel_source = Gasoline, diesel, natural gas, electric,
+| hydrogen, solar, vegetable oil powered = Yes self-propelled = Yes wheels = 3–4
+| tracks = legs = aerofoils = axles = 2 components = invented = inventor = Karl
+| Benz examples =
+}} A 'car' (or 'automobile') is a wheeled motor vehicle used for transportation.
+Most definitions of car say they run primarily on roads, seat one to eight
+people, have four tires, and mainly transport people rather than goods. Cars
+came into global use during the 20th century, and developed economies depend on
+them. The year 1886 is regarded as the birth year of the modern car when German
+inventor Karl Benz built his Benz Patent-Motorwagen. Cars became widely
+available in the early 20th century. One of the first cars that were accessible
+to the masses was the 1908 Model T, an American car manufactured by the Ford
+Motor Company. Cars were rapidly adopted in the US, where they replaced animal-
+drawn carriages and carts, but took much longer to be accepted in Western Europe
+and other parts of the world.
+
+Cars have controls for driving, parking, passenger comfort and safety, and
+controlling a variety of lights. Over the decades, additional features and
+controls have been added to vehicles, making them progressively more complex.
+Examples include rear reversing cameras, air conditioning, navigation systems,
+and in car entertainment. Most cars in use in the 2010s are propelled by an
+internal combustion engine, fueled by the combustion of fossil fuels. This
+causes air pollution and also contributes to climate change and global warming.
+Vehicles using alternative fuels such as ethanol flexible-fuel vehicles and
+natural gas vehicles are also gaining popularity in some countries. Electric
+cars, which were invented early in the history of the car, began to become
+commercially available in 2008.
+
+There are costs and benefits to car use. The costs include acquiring the
+vehicle, interest payments (if the car is financed), repairs and maintenance,
+fuel, depreciation, driving time, parking fees, taxes, and insurance. The costs
+to society include maintaining roads, land use, road congestion, air pollution,
+public health, health care, and disposing of the vehicle at the end of its life.
+Road traffic accidents are the largest cause of injury-related deaths worldwide.
+
+The benefits include on-demand transportation, mobility, independence, and
+convenience. The societal benefits include economic benefits, such as job and
+wealth creation from the automotive industry, transportation provision, societal
+well-being from leisure and travel opportunities, and revenue generation from
+the . The ability for people to move flexibly from place to place has far-
+reaching implications for the nature of societies. It was estimated in 2014 that
+the number of cars was over 1.25 billion vehicles, up from the 500 million of
+1986. The numbers are increasing rapidly, especially in China, India and other
+newly industrialized countries.
+
+My System Answer: A car  is a wheeled motor vehicle used for transportation.
+
+Question: What is a Gimble?
+Raw Results:
+
+A 'gimbal' is a pivoted support that allows the rotation of an object about a
+single axis. A set of three gimbals, one mounted on the other with orthogonal
+pivot axes, may be used to allow an object mounted on the innermost gimbal to
+remain independent of the rotation of its support (e.g. vertical in the first
+animation). For example, on a ship, the gyroscopes, shipboard compasses, stoves,
+and even drink holders typically use gimbals to keep them upright with respect
+to the horizon despite the ship's pitching and rolling.
+
+The gimbal suspension used for mounting compasses and the like is sometimes
+called a 'Cardan suspension' after Italian mathematician and physicist Gerolamo
+Cardano (1501–1576) described it in detail. However, Cardano did not invent the
+gimbal, nor did he claim to. The device has been known since antiquity, first
+described in the 3rd c. BCE by Philo of Byzantium, although some modern authors
+support it may not have a single identifiable inventor.Needham, Joseph. (1986).
+Science and Civilization in China: Volume 4, Physics and Physical Technology;
+Part 2, Mechanical Engineering. Taipei: Caves Books Ltd. Page 229.Francis C.
+Moon, The Machines of Leonardo da Vinci and Franz Reuleaux: Kinematics of
+Machines from the Renaissance to the 20th century, p.314, Springer, 2007 .
+
+My System Answer: A gimbal is a pivoted support that allows the rotation of an object about a single axis.
+
+Question: Who is Barack Obama?
+Raw Results:
+
+
+
+
+
+
+
+{{Infobox president |name = Barack Obama |image = President Barack Obama.jpg
+|alt = Obama standing with his arms folded and smiling |office = 44th President
+of the United States |vicepresident = Joe Biden |term_start = January 20, 2009
+|term_end = January 20, 2017 |predecessor = George W. Bush |successor = Donald
+Trump |jr/sr1 = United States Senator |state1 = Illinois |term_start1 = January
+3, 2005 |term_end1 = November 16, 2008 |predecessor1 = Peter Fitzgerald
+|successor1 = Roland Burris |state_senate2 = Illinois |district2 = 13th
+|predecessor2 = Alice Palmer |term_start2 = January 8, 1997 |term_end2 =
+November 4, 2004 |successor2 = Kwame Raoul |birth_name = Barack Hussein Obama II
+|birth_date = |birth_place = Honolulu, Hawaii, U.S. |party = Democratic |spouse
+= |children = |parents = |relatives = See [[Family of Barack Obama]] |education
+= Occidental CollegeColumbia University (BA)Harvard University (JD) |website =
+|||}} |awards = Nobel Peace Prize (2009)Profile in Courage Award (2017)
+|signature = Barack Obama signature.svg }}
+
+
+
+'Barack Hussein Obama II' (; born August 4, 1961) is an American politician who
+served as the 44th President of the United States from January 20, 2009 to
+January 20, 2017. The first African American to assume the presidency, he was
+previously the junior United States Senator from Illinois from 2005 to 2008.
+Before that, he served in the Illinois State Senate from 1997 until 2004.
+
+Obama was born in 1961 in Honolulu, Hawaii, two years after the territory was
+admitted to the Union as the 50th state. Raised largely in Hawaii, Obama also
+spent one year of his childhood in Washington State and four years in
+Indonesia. After graduating from Columbia University in 1983, he worked as a
+community organizer in Chicago. In 1988 Obama enrolled in Harvard Law School,
+where he was the first black president of the [[Harvard Law Review]]. After
+graduation, he became a civil rights attorney and professor and taught
+constitutional law at the University of Chicago Law School from 1992 to 2004.
+Obama represented the 13th District for three terms in the Illinois Senate from
+1997 to 2004, when he ran for the U.S. Senate. Obama received national
+attention in 2004 with his unexpected March primary win, his well-received July
+Democratic National Convention keynote address, and his landslide November
+election to the Senate. In 2008, Obama was nominated for president a year after
+his campaign began and after a close primary campaign against Hillary Clinton.
+He was elected over Republican John McCain and was inaugurated on January 20,
+2009. Nine months later, Obama was named the 2009 Nobel Peace Prize laureate,
+accepting the award with the caveat that he felt there were others "far more
+deserving of this honor than I."
+
+During his first two years in office, Obama signed many landmark bills into law.
+The main reforms were the Patient Protection and Affordable Care Act (often
+referred to as "Obamacare", shortened as the "Affordable Care Act"), the
+Dodd–Frank Wall Street Reform and Consumer Protection Act, and the Don't Ask,
+Don't Tell Repeal Act of 2010. The American Recovery and Reinvestment Act of
+2009 and Tax Relief, Unemployment Insurance Reauthorization, and Job Creation
+Act of 2010 served as economic stimulus amidst the Great Recession. After a
+lengthy debate over the national debt limit, Obama signed the Budget Control and
+the American Taxpayer Relief Acts. In foreign policy, Obama increased U.S. troop
+levels in Afghanistan, reduced nuclear weapons with the United States–Russia New
+START treaty, and ended military involvement in the Iraq War. He ordered
+military involvement in Libya in opposition to Muammar Gaddafi; Gaddafi was
+killed by NATO-assisted forces, and he also ordered the military operation that
+resulted in the death of Osama bin Laden.
+
+After winning re-election by defeating Republican opponent Mitt Romney, Obama
+was sworn in for a second term in 2013. During his second term, Obama promoted
+inclusiveness for LGBT Americans. His administration filed briefs that urged
+the Supreme Court to strike down same-sex marriage bans as unconstitutional
+([[United States v. Windsor]] and [[Obergefell v. Hodges]]). Obama advocated
+for gun control in response to the Sandy Hook Elementary School shooting, and
+issued wide-ranging executive actions concerning climate change and
+immigration. In foreign policy, Obama ordered military intervention in Iraq in
+response to gains made by ISIL after the 2011 withdrawal from Iraq, continued
+the process of ending U.S. combat operations in Afghanistan, promoted
+discussions that led to the 2015 Paris Agreement on global climate change,
+initiated sanctions against Russia following the invasion in Ukraine and again
+after Russian interference in the 2016 United States elections, brokered a
+nuclear deal with Iran, and normalized U.S. relations with Cuba. Obama left
+office in January 2017 with a 60% approval rating and currently resides in
+Washington, D.C. Since leaving office, his presidency has been favorably ranked
+by historians and the general public.
+
+My System Answer: Barack Hussein Obama II  is an American politician who served as the 44th President of the United States from January 20, 2009 to January 20, 2017.
+
+Question: Who is LeBron James?
+Raw Results:
+
+
+
+
+{{Infobox basketball biography
+| image = LeBron James (31944491583).jpg caption = James with the Cavaliers in
+| 2017 position = Small forward height_ft = 6 height_in = 8 weight_lb = 250
+| league = NBA team = Cleveland Cavaliers number = 23 nationality = American
+| birth_date = birth_place = Akron, Ohio high_school = St. Vincent–St.
+| Mary(Akron, Ohio) draft_year = 2003 draft_round = 1 draft_pick = 1 draft_team
+| = Cleveland Cavaliers career_start = 2003 career_end = career_number = years1
+| = – team1 = Cleveland Cavaliers years2 = – team2 = Miami Heat years3 =
+| –present team3 = Cleveland Cavaliers highlights =
+* 3× NBA champion (2012, 2013, 2016)
+* 3× NBA Finals MVP (2012, 2013, 2016)
+* 4× NBA Most Valuable Player (, , , )
+* 14× NBA All-Star (–)
+* 3× NBA All-Star Game MVP (2006, 2008, 2018)
+* 11× All-NBA First Team (, –)
+* 2× All-NBA Second Team (, )
+* 5× NBA All-Defensive First Team (–)
+* NBA All-Defensive Second Team ()
+* NBA Rookie of the Year ()
+* NBA scoring champion ()
+* J. Walter Kennedy Citizenship Award ()
+* 2× AP Athlete of the Year (2013, 2016)
+* 2× ''Sports Illustrated'' Sportsperson of the Year (2012, 2016)
+* USA Basketball Male Athlete of the Year (2012)
+* 2× Mr. Basketball USA (2002, 2003)
+* Naismith Prep Player of the Year (2003)
+* McDonald's All-American Game MVP (2003)
+* 3× Ohio Mr. Basketball (2001–2003)
+| bbr = jamesle01 profile = lebron_james medaltemplates =
+
+}}
+
+
+
+
+
+
+
+
+}} 'LeBron Raymone James Sr.' (; born December 30, 1984) is an American
+professional basketball player for the Cleveland Cavaliers of the National
+Basketball Association (NBA). Widely regarded as one of the greatest NBA
+players of all time, he has won three NBA championships, four NBA Most Valuable
+Player Awards, three NBA Finals MVP Awards, three NBA All-Star Game MVP Awards,
+two Olympic gold medals, an NBA scoring title, and the NBA Rookie of the Year
+Award. James is a 14-time NBA All-Star, 11-time All-NBA first teamer, and five-
+time All-Defensive first teamer. He is also the Cavaliers' all-time scoring
+leader, the NBA All-Star Game career scoring leader, and the NBA career playoff
+scoring leader.
+
+James played high school basketball at St. Vincent–St. Mary High School in his
+hometown of Akron, Ohio, where he was highly promoted in the national media as a
+future NBA superstar. After graduating, he was selected by his home team, the
+Cleveland Cavaliers, as the first overall pick of the 2003 NBA draft. James led
+Cleveland to the franchise's first Finals appearance in 2007, ultimately losing
+to the San Antonio Spurs. In 2010, he left the Cavaliers for the Miami Heat, a
+controversial move featured in an ESPN special titled [[The Decision (TV
+special)|The Decision]]. James spent four seasons with the Heat, reaching the
+Finals all four years and winning back-to-back championships in 2012 and 2013.
+In 2013, he led Miami on a 27-game winning streak, the third longest in league
+history. Following his final season with the Heat in 2014, James opted out of
+his contract and returned to the Cavaliers. From 2015 to 2017, he led the
+Cavaliers to three consecutive Finals, winning his third championship in 2016 to
+end Cleveland's 52-year professional sports title drought.
+
+Off the court, James has accumulated considerable wealth and fame from numerous
+endorsement contracts. His public life has been the subject of much scrutiny,
+and he has been ranked as one of America's most influential and popular
+athletes. He has been featured in books, documentaries, commercials, television
+shows, and movies.
+
+My System Answer: LeBron Raymone James Sr.  is an American professional basketball player for the Cleveland Cavaliers of the National Basketball Association .
+
+Question: Who is Kanye West?
+Raw Results:
+
+
+
+
+{{Infobox person
+| name = Kanye West image = Kanye West at the 2009 Tribeca Film Festival.jpg
+| caption = West at the 2009 Tribeca Film Festival birth_name = Kanye Omari West
+| birth_date = birth_place = Atlanta, Georgia, U.S. residence = Hidden Hills,
+| California, U.S. alma_mater = occupation = {{flatlist|
+* Rapper
+* singer
+* songwriter
+* record producer
+* fashion designer
+* entrepreneur }}
+| years_active = 1996–present net_worth = US$145 millionhttps://www.gobankingrates.com/net-worth/kanye-west-net-
+| worth/ education = home_town = Chicago, Illinois, U.S. title = spouse =
+| children = 3 website = module = {{Infobox musical artist embed = yes
+| background = solo_singer instrument = {{flatlist|
+* Vocals
+* keyboard
+* sampler
+* drum machine
+* synthesizer
+* piano }}
+| genre = {{flatlist|
+* Hip hop
+* R&B
+* pop }}
+| label = {{flatlist|
+* GOOD
+* Roc-A-Fella
+* Def Jam }}
+| associated_acts = {{flatlist|
+* Child Rebel Soldier
+* Kids See Ghost
+* Big Sean
+* Common
+* Consequence
+* Drake
+* Frank Ocean
+* GLC
+* Jamie Foxx
+* Jay-Z
+* John Legend
+* Justin Vernon
+* Kid Cudi
+* Mike Dean
+* No I.D.
+* Pusha T
+* Rihanna
+* Twista }} }} }}
+
+'Kanye Omari West' (;West says "Kanye" twice in the song "Diamonds from Sierra
+Leone", at 2'57" and 3'36" in [https://m.youtube.com/watch?v=92FCRmggNqQ this]
+recording. born June 8, 1977) is an American rapper, songwriter, entrepreneur
+and fashion designer. He is among the most acclaimed rappers of the 21st
+century,Rucker, CJ. [https://web.archive.org/web/20160221005026/http://hypetrak.com/2016/02/kanye-
+west-the-life-of-pablo-review/ "How We Heard Kanye West's 'The Life Of
+Pablo'….So Far"]. Hypetrak. HB Network. Retrieved February 22, 2016. and is one
+of the best-selling artists of all time, having sold more than 100 million
+digital downloads and 21 million albums worldwide. He has won a total of 21
+Grammy Awards, making him one of the most awarded artists of all time and the
+most Grammy-awarded artist to have debuted in the 21st century. Three of his
+albums have been included and ranked on Rolling Stones 2012 update of the "500
+Greatest Albums of All Time" list. He has also been included in a number of
+[[Forbes]] annual lists. [[TIME (magazine)|Time]] named him one of the 100 most
+influential people in the world in 2005 and 2015.
+
+Born in Atlanta and raised in Chicago, West briefly attended art school before
+becoming known as a producer for Roc-A-Fella Records in the early 2000s,
+producing hit singles for artists such as Jay-Z and Alicia Keys. Intent on
+pursuing a solo career as a rapper, West released his debut album [[The College
+Dropout]] in 2004 to widespread critical and commercial success, and founded the
+record label GOOD Music. He went on to pursue a variety of styles on subsequent
+albums [[Late Registration]] (2005), [[Graduation (album)|Graduation]] (2007),
+and [[808s & Heartbreak]] (2008). In 2010, he released his fifth album [[My
+Beautiful Dark Twisted Fantasy]] to rave reviews from critics, and the following
+year he released the collaborative album [[Watch the Throne]] with Jay-Z. West
+released his abrasive sixth album, [[Yeezus]], to further critical praise in
+2013. His seventh album, [[The Life of Pablo]], was released in 2016.
+
+West's outspoken views and life outside of music have received significant
+mainstream attention. He has been a frequent source of controversy for his
+conduct at award shows, on social media, and in other public settings. His more
+scrutinized comments include his off-script denunciation of President George W.
+Bush during a live 2005 television broadcast for Hurricane Katrina relief and
+his interruption of singer Taylor Swift at the 2009 MTV Video Music Awards.
+
+West's ventures as a fashion designer include collaborations with Nike, Louis
+Vuitton, and A.P.C. on both clothing and footwear, and have most prominently
+resulted in the YEEZY collaboration with Adidas beginning in 2013. He is the
+founder and head of the creative content company DONDA. His 2014 marriage to
+television personality Kim Kardashian has also been subject to widespread
+media coverage.
+
+My System Answer: Kanye Omari West  is an American rapper, songwriter, entrepreneur and fashion designer.
+
+Question: Who are The Beatles?
+Raw Results:
+
+
+
+
+{{Infobox musical artist
+| name = The Beatles image = The Fabs.JPG caption = The Beatles in 1964.
+| Clockwise from top left: John Lennon, Paul McCartney, Ringo Starr and George
+| Harrison alt = A square quartered into four head shots of young men with
+| moptop haircuts. All four wear white shirts and dark coats. background =
+| group_or_band origin = Liverpool, England genre = {{flatlist|
+* Rock
+* pop
+* psychedelia }}
+| years_active = 1960–1970 label = {{flatlist|
+* Parlophone
+* Apple
+* Capitol }}
+| associated_acts = {{flatlist|
+* The Quarrymen
+* Tony Sheridan
+* Billy Preston
+* Plastic Ono Band }}
+| website = past_members = * John Lennon
+* Paul McCartney
+* George Harrison
+* Ringo Starr See members section for others }}
+
+'The Beatles' were an English rock band formed in Liverpool in 1960. With
+members John Lennon, Paul McCartney, George Harrison and Ringo Starr, they
+became widely regarded as the foremost and most influential music band. Rooted
+in skiffle, beat and 1950s rock and roll, the Beatles later experimented with
+several musical styles, ranging from pop ballads and Indian music to
+psychedelia and hard rock, often incorporating classical elements and
+unconventional recording techniques in innovative ways. In 1963 their enormous
+popularity first emerged as "Beatlemania"; as the group's music grew in
+sophistication, led by primary songwriters Lennon and McCartney, the band were
+integral to pop music's evolution into an art form and to the development of
+the counterculture of the 1960s.
+
+The Beatles built their reputation playing clubs in Liverpool and Hamburg over a
+three-year period from 1960, with Stuart Sutcliffe initially serving as bass
+player. The core trio of Lennon, McCartney and Harrison, together since 1958,
+went through a succession of drummers, including Pete Best, before asking Starr
+to join them in 1962. Manager Brian Epstein moulded them into a professional
+act, and producer George Martin guided and developed their recordings, greatly
+expanding the group's popularity in the United Kingdom after their first hit,
+"Love Me Do", in late 1962. They acquired the nickname "the Fab Four" as
+Beatlemania grew in Britain over the next year, and by early 1964 became
+international stars, leading the "British Invasion" of the United States pop
+market. From 1965 onwards, the Beatles produced increasingly innovative
+recordings, including the albums [[Rubber Soul]] (1965), [[Revolver (Beatles
+album)|Revolver]] (1966), [[Sgt. Pepper's Lonely Hearts Club Band]] (1967),
+[[The Beatles (album)|The Beatles]] (also known as the White Album, 1968) and
+[[Abbey Road]] (1969). After their break-up in 1970, they each enjoyed success
+as solo artists. Lennon was shot and killed in December 1980, and Harrison died
+of lung cancer in November 2001. McCartney and Starr remain musically active.
+
+The Beatles are the best-selling band in history, with estimated sales of over
+800 million physical and digital albums worldwide. They have had more number-one
+albums on the British charts and sold more singles in the UK than any other act.
+They are also the best-selling music artists in the United States, with 178
+million certified units. In 2008, the group topped [[Billboard
+(magazine)|Billboard]] magazine's list of the all-time most successful artists;
+, they hold the record for most number-one hits on the Hot 100 chart with
+twenty. They have received seven Grammy Awards, an Academy Award for Best
+Original Song Score and fifteen Ivor Novello Awards. The group was inducted into
+the Rock and Roll Hall of Fame in 1988, and all four main members were inducted
+individually from 1994 to 2015. They were also collectively included in [[Time
+(magazine)|Time]] magazine's compilation of .
+
+My System Answer: The Beatles were an English rock band formed in Liverpool in 1960.
+
+Question: Who was the first man to climb Mount Everest?
+My System Answer: Could not retrieve answer.
+Question: Where was George Washington born?
+Raw Results:
+
+
+
+
+{{Infobox officeholder
+| name = George Washington office = President of the United States order = 1st
+| image = Gilbert Stuart Williamstown Portrait of George Washington.jpgborder
+| caption = George Washington by Gilbert Stuart, 1797 predecessor = position
+| established successor = John Adams vicepresident = John Adams footnotes =
+{{collapsible list
+| titlestyle = background; title = Other offices held bullets = on Member of the
+| Virginia House of Burgesses (1758–1765) }} signature = George Washington
+| signature.svg signature_alt = Cursive signature in ink appointer2 =
+| Continental Congress office2 = Commander-in-Chief of theContinental Army
+| predecessor2 = position established party = None appointer1 = John Adams
+| office1 = Senior Officer of the U.S. Army predecessor1 = James Wilkinson
+| successor1 = Alexander Hamilton successor2 = Henry Knox birth_date =
+| birth_place = Popes Creek, Colony of Virginia, British America death_date =
+| death_place = Mount Vernon, Virginia, U.S. parents = Augustine Washington Mary
+| Ball spouse = allegiance = Kingdom of Great BritainUnited States of America
+| branch =Colonial MilitiaContinental ArmyUnited States Army serviceyears =
+| 1752–58 (British Militia)1775–83 (Continental Army)1798–99 (U.S. Army) rank
+| =Colonel (British Army)General and Commander-in-Chief (Continental
+| Army)Lieutenant General (United States Army)General of the Armies (promoted
+| posthumously: 1976, by an Act of Congress) commands = Virginia Colony's
+| regimentContinental ArmyUnited States Army battles = {{hidden
+|See battles
+|
+* French and Indian War
+* Battle of Jumonville Glen
+* Battle of Fort Necessity
+* Braddock Expedition
+* Battle of the Monongahela
+* Forbes Expedition
+* American Revolutionary War
+* Boston campaign
+* New York and New Jersey campaign
+* Philadelphia campaign
+* Yorktown campaign
+* Northwest Indian War
+|-
+|headerstyle=background:#dbdbdb |style=text-align:center; }}
+| awards = Congressional Gold MedalThanks of Congress term_start = April 30,
+| 1789 term_end = March 4, 1797 term_start1 = July 13, 1798 term_end1 = December
+| 14, 1799 term_start2 = June 15, 1775 term_end2 = December 23, 1783 office3 =
+| Delegate to the Second Continental Congress from Virginia term_start3 = May
+| 10, 1775 term_end3 = June 15, 1775 predecessor3 = Position established
+| successor3 = Thomas Jefferson office4 = Delegate to the First Continental
+| Congressfrom Virginia term_start4 = September 5, 1774 term_end4 = October 26,
+| 1774 predecessor4 = Position established successor4 = Position abolished
+| death_cause = Epiglottitis and hypovolemic shock restingplace = Washington
+| Family Tomb, Mount Vernon, Virginia, U.S.
+}}
+
+'George Washington' (February 22, 1732}}&nbsp;– , 1799) was an American
+statesman and soldier who served as the first President of the United States
+from 1789 to 1797 and was one of the Founding Fathers of the United States. He
+served as Commander-in-Chief of the Continental Army during the American
+Revolutionary War, and later presided over the 1787 convention that drafted the
+United States Constitution. As a driving force behind the nation's establishment
+he came to be known as the "father of the country," both during his lifetime and
+to this day.
+
+Washington was born into the provincial gentry of Colonial Virginia to a family
+of wealthy planters who owned tobacco plantations and slaves, which he
+inherited. In his youth, he became a senior officer in the colonial militia
+during the first stages of the French and Indian War. He gradually grew
+indifferent to British rule with its lack of colonial representation in British
+Parliament and excessive taxation on the colonies. In 1775, the Second
+Continental Congress commissioned him as commander-in-chief of the Continental
+Army in the American Revolution. In that command, Washington drove the British
+out of Boston in 1776, but was defeated and nearly captured later that year when
+he lost New York City. After crossing the Delaware River in the middle of
+winter, he defeated the British in two battles, retook New Jersey, and restored
+momentum to the Patriot cause. Washington's strategy enabled Continental forces
+to ultimately defeat the British. Historians laud Washington for the selection
+and supervision of his generals, preservation and command of the army,
+coordination with the Congress, state governors, and their militia, and
+attention to supplies, logistics, and training. In battle, however, Washington
+was sometimes outmaneuvered by British generals with larger armies, yet was
+always able to avoid significant defeats which would have resulted in the
+surrender of his army and the loss of the American Revolution.
+
+After victory had been finalized in 1783, Washington resigned as commander-in-
+chief rather than remaining in power, proving his commitment to American
+republicanism. Washington presided over the Constitutional Convention in 1787,
+which devised a new form of federal government for the United States. Washington
+was widely admired for his strong leadership qualities and was unanimously
+elected president by the Electoral College in the first two national elections.
+Following his election as president in 1789, he worked to unify rival factions
+in the fledgling nation. He helped pass Alexander Hamilton's programs to satisfy
+federal and state debts to establish a permanent seat of government, to
+implement an effective tax system, and to create a national bank.
+
+In avoiding war with Great Britain, he guaranteed a decade of peace and
+profitable trade by securing the Jay Treaty in 1795, despite intense opposition
+from the Jeffersonians. He oversaw the creation of a strong, well-financed
+national government that maintained neutrality in the French Revolutionary
+Wars, suppressed the Whiskey Rebellion, and won wide acceptance among
+Americans. Washington's incumbency established many precedents still in use
+today, such as the cabinet system, the inaugural address, and the title Mr.
+President. His retirement from office after two terms established a tradition
+that lasted until 1940 and was later made law by the 22nd Amendment. He
+remained non-partisan, never joining the Federalist Party, although he largely
+supported its policies. By 1794, Congress was divided between two parties, that
+had stemmed from a political-personal feud between Washington's two
+secretaries, Hamilton and Thomas Jefferson. Washington's Farewell Address was
+an influential primer on civic virtue, warning against partisanship,
+sectionalism, and involvement in foreign wars.
+
+He retired from the presidency in 1797, returning to his home and beloved
+plantation at Mount Vernon. Upon his death, Washington was eulogized as "first
+in war, first in peace, and first in the hearts of his countrymen". He was
+revered in life and in death; scholarly and public polling consistently ranks
+him among the top three presidents in American history. He has been depicted and
+remembered in monuments, public works, currency, and other dedications to the
+present day.
+
+
+My System Answer: George Washington  was born in  Popes Creek, Colony of Virginia, British America
+
+Question: Where is Richmond, Virginia?
+Raw Results:
+
+
+
+{{Infobox settlement
+ | name = Richmond, Virginia official_name = City of Richmond settlement_type =
+ | State capital and independent city image_skyline = Collage of Landmarks in
+ | Richmond, Virginia v 1.jpg imagesize = 300px image_caption = Top: Skyline
+ | above the falls of the James River Middle: St. John's Episcopal Church,
+ | Jackson Ward, Monument Avenue. Bottom: Virginia State Capitol, Main Street
+ | Station image_flag = Flag of Richmond, Virginia.svg image_seal =
+ | Richmondseal.png nickname = RVA, The River City,City Connection, Office of
+ | the Press Secretary to the Mayor. [http://www.richmondgov.com/PressSecretary-
+ | Mayor/documents/CityConnection.pdf#page=2 Richmondgov.com]. January–March
+ | 2010 edition. Retrieved February 8, 2010. Capital of the South[http://www.vi-
+ | rginia.org/Listings/SuggestedItinerary/CivilWarRichmondTheSouthsCapital/
+ | Civil War Richmond – The South's Capital – Virginia Is For Lovers].
+ | Virginia.org (May 18, 2012). Retrieved on 2013-08-21.Griset, Rich. (August 9,
+ | 2013) [http://www.styleweekly.com/richmond/one-of-the-most-extensive-collections-
+ | of-eskimo-folk-art-is-right-here-in-richmond/Content?oid=1387075 One of the
+ | most extensive collections of Eskimo folk art is right here in Richmond.].
+ | Style Weekly. Retrieved on 2013-08-21. motto = Sic Itur Ad Astra ("Thus do we
+ | reach the stars") image_map = Map of Virginia highlighting Richmond City.svg
+ | mapsize = 250 px map_caption = Location in the Commonwealth of Virginia
+ | pushpin_map = USA Virginia#USA#North America pushpin_label = Richmond
+ | pushpin_map_caption = Location in Virginia, United States & North America
+|pushpin_relief = yes
+ | coordinates = subdivision_type = Country subdivision_name = United States
+ | subdivision_type1 = State subdivision_type2 = County
+
+ | subdivision_name1 = subdivision_name2 = None (Independent city)
+
+ | established_date = named_for = Richmond, London government_type =
+ | leader_title = Mayor leader_name = Levar Stoney (D) total_type = City
+ | area_magnitude = 1 E8 area_total_sq_mi = 62.5 area_land_sq_mi = 60.1
+ | area_water_sq_mi = 2.5 elevation_m = 45.7 elevation_ft = 166.45
+ | population_total = 223,170 (98th) population_as_of = 2016
+ | population_density_sq_mi = 3,713 population_metro = 1,260,029 (44th)
+ | population_demonym = Richmonder postal_code_type = ZIP Codes postal_code =
+ | 23173, 23218–23242, 23249–23250, 23255, 23260–23261, 23269, 23273–23274,
+ | 23276, 23278–23279, 23282, 23284–23286, 23288–23295, 23297–23298 area_code =
+ | 804 area_code_type = Area code website = [http://www.ci.richmond.va.us/
+ | www.ci.richmond.va.us] footnotes = 'Nomenclature evolution'
+Prior to 1071 – [http://www.lion1906.com/departements/seine-maritime/richemont-
+.pdf Richemont]: a town in Normandy, France.1071 to 1501 – Richmond: a castle
+town in Yorkshire, UK.1501 to 1742 – Richmond, a palace town in Surrey, UK.1742
+to present – Richmond, Virginia.
+| timezone = EST utc_offset = -5 timezone_DST = EDT utc_offset_DST = -4
+| blank_name = FIPS code blank_info = 51-76000 blank1_name = GNIS feature ID
+| blank1_info = 1499957
+ }}
+
+'Richmond' ( ) is the capital of the Commonwealth of Virginia in the United
+States. It is the center of the Richmond Metropolitan Statistical Area (MSA) and
+the Greater Richmond Region. It was incorporated in 1742, and has been an
+independent city since 1871.
+
+As of the 2010 census, the population was 204,214; in 2016, the population was
+estimated to be 223,170, the fourth-most populous city in Virginia. The Richmond
+Metropolitan Area has a population of 1,260,029, the third-most populous metro
+in the state.
+
+Richmond is located at the fall line of the James River, west of Williamsburg,
+east of Charlottesville, and south of Washington, D.C. Surrounded by Henrico and
+Chesterfield counties, the city is located at the intersections of Interstate 95
+and Interstate 64, and encircled by Interstate 295 and Virginia State Route 288.
+Major suburbs include Midlothian to the southwest, Chesterfield to the south,
+Varina to the southeast, Sandston to the east, Glen Allen to the north and west,
+Short Pump to the west and Mechanicsville to the northeast.
+
+The site of Richmond had been an important village of the Powhatan Confederacy,
+and was briefly settled by English colonists from Jamestown in 1609, and in
+1610–1611. The present city of Richmond was founded in 1737. It became the
+capital of the Colony and Dominion of Virginia in 1780, replacing Williamsburg.
+During the Revolutionary War period, several notable events occurred in the
+city, including Patrick Henry's "Give me liberty or give me death" speech in
+1775 at St. John's Church, and the passage of the Virginia Statute for Religious
+Freedom written by Thomas Jefferson. During the American Civil War, Richmond
+served as the second and permanent capital of the Confederate States of America.
+The city entered the 20th century with one of the world's first successful
+electric streetcar systems. The Jackson Ward neighborhood is a national hub of
+African-American commerce and culture.
+
+Richmond's economy is primarily driven by law, finance, and government, with
+federal, state, and local governmental agencies, as well as notable legal and
+banking firms, located in the downtown area. The city is home to both the United
+States Court of Appeals for the Fourth Circuit, one of 13 United States courts
+of appeals, and the Federal Reserve Bank of Richmond, one of 12 Federal Reserve
+Banks. Dominion Resources and WestRock, Fortune 500 companies, are headquartered
+in the city, with others in the metropolitan area.
+
+
+My System Answer: Richmond, Virginia is located at the fall line of the James River, west of Williamsburg, east of Charlottesville, and south of Washington, D
+
+Question: Where is Rome?
+Raw Results:
+
+
+{{Infobox settlement
+
+| name = Rome official_name = Roma Capitale native_name = Roma settlement_type =
+| [[Comune]] image_skyline = Rome Montage 2017.png image_caption = 'Clockwise
+| from top:' the Colosseum, St. Peter's Basilica, Castel Sant'Angelo, Ponte
+| Sant'Angelo, Trevi Fountain and the Pantheon image_flag = image_shield =
+| nickname = The Eternal City, Capital of the World, Throne of St. Peter
+
+| image_map = Map of comune of Rome (metropolitan city of Capital Rome, region
+| Lazio, Italy).svg map_caption = The territory of the comune (Roma Capitale, in
+| red) inside the Metropolitan City of Rome (Città Metropolitana di Roma, in
+| yellow). The white area in the centre is Vatican City. pushpin_map =
+| Italy#Lazio#Europe pushpin_map_caption = Location in Italy & Europe
+|pushpin_relief = yes
+| coordinates = coor_pinpoint =
+
+
+| subdivision_type = Country subdivision_name = Excluding }} subdivision_type2 =
+| Region subdivision_name2 =
+
+| government_footnotes = government_type = Special Comune ("Roma Capitale")
+| governing_body = Rome City Council leader_title = Mayor leader_name = Virginia
+| Raggi (M5S) total_type = Total unit_pref = IT
+
+| area_footnotes = area_total_sq_mi = 496.3 area_urban_sq_mi =
+
+| elevation_footnote = elevation_m = 21 elevation_ft =
+
+| population_total = population_as_of = 30 November 2017 population_footnotes =
+| population_density_km2 = 2236 population_rank = 1st, Italy (4th in EU)
+| population_blank1_title = Comune population_blank1 = 2,873,874
+| population_blank2_title = Metropolitan City population_blank2 = 4,357,041[htt-
+| p://demo.istat.it/pop2014/popol.php?m1=&m2=&m3=&m4=&m5=y&f1=&f2=&f3=&f4=&f5=y-
+| &daanno=0&adanno=100&lingua=eng&Rip=S3&Reg=R12&Pro=P058&Com=000&submit=Save
+| Bilancio demografico Anno 2014 (dati provvisori). Provincia: Roma] –
+| Demo.istat.it population_demonym =
+
+| timezone1 = CET utc_offset1 = +1
+
+| postal_code_type = CAP code(s) postal_code = 00100; 00118 to 00199 area_code =
+| 06 website = [http://www.comune.roma.it/ Comune di Roma] pushpin_label = Rome
+| un_locode =
+
+}}
+
+'Rome' ( ; ; ) is the capital of Italy and a special comune (named Comune di
+Roma Capitale). Rome also serves as the capital of the Lazio region. With
+2,873,874 residents in , it is also the country's most populated comune. It is
+the fourth-most populous city in the European Union by population within city
+limits. It is the centre of the Metropolitan City of Rome, which has a
+population of 4.3 million residents. Rome is located in the central-western
+portion of the Italian Peninsula, within Lazio (Latium), along the shores of the
+Tiber. The Vatican City is an independent country inside the city boundaries of
+Rome, the only existing example of a country within a city: for this reason Rome
+has been often defined as capital of two states.
+
+Rome's history spans 28 centuries. While Roman mythology dates the founding of
+Rome at around 753 BC, the site has been inhabited for much longer, making it
+one of the oldest continuously occupied sites in Europe.Heiken, G., Funiciello,
+R. and De Rita, D. (2005), The Seven Hills of Rome: A Geological Tour of the
+Eternal City. Princeton University Press. The city's early population originated
+from a mix of Latins, Etruscans, and Sabines. Eventually, the city successively
+became the capital of the Roman Kingdom, the Roman Republic and the Roman
+Empire, and is regarded as the birthplace of Western civilisation and by some as
+the first ever metropolis. It was first called The Eternal City (; ) by the
+Roman poet Tibullus in the 1st century BC, and the expression was also taken up
+by Ovid, Virgil, and Livy.Stephanie Malia Hom, "Consuming the View: Tourism,
+Rome, and the Topos of the Eternal City", Annali d'Igtalianistica '28':91–116
+Rome is also called the "Caput Mundi" (Capital of the World).
+
+After the fall of the Western Empire, which marked the beginning of the Middle
+Ages, Rome slowly fell under the political control of the Papacy, which had
+settled in the city since the 1st century AD, until in the 8th century it became
+the capital of the Papal States, which lasted until 1870.
+
+Beginning with the Renaissance, almost all the popes since Nicholas V
+(1447–1455) pursued over four hundred years a coherent architectural and urban
+programme aimed at making the city the artistic and cultural centre of the
+world. In this way, Rome became first one of the major centres of the Italian
+Renaissance, and then the birthplace of both the Baroque style and
+Neoclassicism. Famous artists, painters, sculptors and architects made Rome the
+centre of their activity, creating masterpieces throughout the city. In 1871
+Rome became the capital of the Kingdom of Italy, which in 1946 became the
+Italian Republic.
+
+Rome has the status of a global city. In 2016, Rome ranked as the 14th-most-
+visited city in the world, 3rd most visited in the European Union, and the most
+popular tourist attraction in Italy. Its historic centre is listed by UNESCO as
+a World Heritage Site. Monuments and museums such as the Vatican Museums and the
+Colosseum are among the world's most visited tourist destinations with both
+locations receiving millions of tourists a year, and the city hosted the 1960
+Summer Olympics. Rome is the seat of several specialized agencies of the United
+Nations, such as the Food and Agriculture Organization (FAO), the World Food
+Programme (WFP) and the International Fund for Agricultural Development (IFAD).
+The city hosts the headquarters of many international business companies, such
+as Eni, Enel, TIM and national and international banks such as Unicredit and
+BNL. Its business district, called EUR, is the base of many companies involved
+in the oil industry, the pharmaceutical industry and financial services. Rome is
+also an important fashion and design centre thanks to renowned international
+brands centered in the city. Rome's Cinecittà Studios have been the set of many
+Academy Award–winning movies.
+
+
+My System Answer: Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber
+
+Question: Where is Dallas?
+Raw Results:
+
+
+{{Infobox settlement |name = Dallas, Texas |official_name = City of Dallas
+|settlement_type = City |named_for = |image_skyline = Dallas Collage Montage.png
+|imagesize = 330px |image_caption = Top to bottom, left to right: Downtown
+Dallas skyline, Old Red Museum, NorthPark Center, Dallas City Hall, Dallas
+Museum of Art, Winspear Opera House, Perot Museum of Nature and Science, State
+Fair of Texas at Fair Park, Dallas Union Station, the Dallas Arboretum and
+Botanical Garden, and the American Airlines Center |image_flag = Flag of
+Dallas.svg |image_seal = Seal of Dallas.svg |nickname =Big D, D-Town |image_map
+= Dallas County Texas Incorporated Areas Dallas highlighted.svg |mapsize = 250px
+|map_caption = Location of Dallas in Dallas County and the U.S. state of Texas
+|image_map1 = |mapsize1 =200 |map_caption1 = |pushpin_map = USA Texas#USA
+|pushpin_label_position = right |pushpin_map_alt = Map of the U.S.
+|pushpin_map_caption = Location of Dallas in the contiguous United States
+|pushpin_relief = |coordinates = |subdivision_type = Country |subdivision_name =
+|subdivision_type1 = State |subdivision_type2 = County |subdivision_name1 =
+|subdivision_name2 = Dallas |established_title = Incorporated |established_date
+= February 2, 1856 |parts_type = Counties |parts_style = para |parts = |p1 =
+Dallas |government_type = Council–Manager |governing_body = Dallas City Council
+|leader_title = Mayor |leader_name = Mike Rawlings |unit_pref = Imperial
+|area_magnitude = 1 E9 |area_total_km2 = 999.3 |area_total_sq_mi =
+|area_land_km2 = 881.9 |area_land_sq_mi = |area_water_km2 = 117.4
+|area_water_sq_mi = |area_urban_sq_mi = 1407.2 |elevation_m = 131 |elevation_ft
+= 430 |population_total = 1197816 |population_as_of = 2010 |population_footnotes
+= |population_density_km2 = 1,497 |population_density_sq_mi = 3,876
+|population_est = 1,317,929 |pop_est_as_of = 2016 |pop_est_footnotes =
+|population_urban = 5,121,892 (6th) |population_metro = 7,233,323 (4th)
+|population_rank = (US: 9th) |population_blank1_title = CSA |population_blank1 =
+7,673,305 (7th) |population_blank2_title = Demonym |population_blank2 =
+Dallasite |postal_code_type = ZIP code |postal_code = {{collapsible list |title
+= ZIP codes |framestyle = border:none; padding: 0; |liststyle = text-
+align:center;display:none
+|75201-75212, 75214-75238, 75240-75254, 75258, 75260-75267, 75270, 75275, 75277,
+|75283-75287, 75301, 75303, 75310, 75312-75313, 75315, 75320, 75323, 75326,
+|75334, 75336, 75339-75340, 75342-75344, 75354-75360, 75367-75368, 75370-75374,
+|75376, 75378-75382, 75387, 75389-75394}}
+|area_code = 214, 469, 972, 682, 817 |area_code_type = Area code |website =
+|footnotes = |pushpin_label = Dallas |p2 = Collin |p3 = Denton |p4 = Rockwall
+|p5 = Kaufman |timezone = Central |utc_offset = -6 |timezone_DST = Central
+|utc_offset_DST = -5 |blank_name = FIPS code |blank_info = 48-19000 |blank1_name
+= GNIS feature ID |blank1_info = 1380944 |blank2_name = ZIP code prefix
+|blank2_info = 752,753 |blank3_name = Interstates |blank3_info =
+| blank4_name = U.S. Routes blank4_info =
+}}
+
+'Dallas' () is a city in the U.S. state of Texas. It is the most populous city
+in the Dallas–Fort Worth metroplex, which is the fourth most populous
+metropolitan area in the United States. The city's population ranks ninth in the
+U.S. and third in Texas after Houston and San Antonio. The city's prominence
+arose from its historical importance as a center for the oil and cotton
+industries, and its position along numerous railroad lines. The bulk of the city
+is in Dallas County, of which it is the county seat; however, sections of the
+city are in Collin, Denton, Kaufman, and Rockwall counties. According to the
+2010 United States Census, the city had a population of 1,197,816. The United
+States Census Bureau's estimate for the city's population increased to 1,317,929
+as of July 1, 2016.
+
+Dallas is one of the fastest-growing cities in the United States. From 2010 to
+2016, Dallas recorded the highest net domestic migration in the country, in
+excess of 300,000. Overall, the Dallas–Fort Worth metro area had the second
+largest population increase among metro areas in the U.S., which recorded a
+population of 7,233,323 as of July 1, 2016, an increase of 807,000 people since
+the 2010 census. Located in North Texas, Dallas is the main core of the largest
+metropolitan area in the South and the largest inland metropolitan area in the
+United States that lacks any navigable link to the sea.: In ascending order from
+the Dallas/Fort Worth Metroplex (in terms of metropolitan population): Chicago
+via Lake Michigan, Los Angeles via the Pacific Ocean, and New York City via the
+Atlantic Ocean. For attempts to render the Trinity River navigable to the Gulf
+of Mexico, see TRINITY RIVER NAVIGATION PROJECTS |The Handbook of Texas
+Online|Texas State Historical Association (TSHA),
+https://tshaonline.org/handbook/online/articles/ett01 (last visited September
+16, 2013); The Trinity River Authority of Texas (TRA), (last visited September
+16, 2013); Living with the Trinity: The Trinity River in Dallas, Fort Worth,
+North Texas and Beyond (Video Documentary),
+http://trinityrivertexas.org/video_full.php (last visited September 16, 2013).
+See also Trinity River (Texas). Dallas and nearby Fort Worth were developed due
+to the construction of major railroad lines through the area allowing access to
+cotton, cattle, and later oil in North and East Texas. The construction of the
+Interstate Highway System reinforced Dallas's prominence as a transportation hub
+with four major interstate highways converging in the city, and a fifth
+interstate loop around it. Dallas developed as a strong industrial and financial
+center, and a major inland port, due to the convergence of major railroad lines,
+interstate highways, and the construction of Dallas/Fort Worth International
+Airport, one of the largest and busiest airports in the world.
+
+
+My System Answer: Dallas is located in North Texas, Dallas is the main core of the largest metropolitan area in the South and the largest inland metropolitan area in the United States that lacks any navigable link to the sea
+
+Question: Where is Ghana?
+Raw Results:
+ 700 – c. 1240) northwest of modern Ghana|Ghana Empire|other uses|}}
+
+
+
+{{Infobox country |conventional_long_name = Republic of Ghana |common_name =
+Ghana |image_flag = Flag of Ghana.svg |image_coat = Coat of arms of Ghana.svg
+|national_motto = "Freedom and Justice" |national_anthem = ||}} |image_map =
+Ghana (orthographic projection).svg |capital = Accra |largest_city = capital
+|coordinates = |official_languages = English |languages = |languages_type =
+National languages |ethnic_groups = {{unbulleted list
+  |
+  | 16.6% DagbaniMole (4 mln)
+  | 13.9% Ewe (2.9 mln)
+  |  7.4% Ga-Adangbe (1.8 mln)
+  |  5.7% Gurma (0.7 mln)
+  |  5.% Fulani (0.5 mln)
+  |  3.7% GuanGonja (0.3 mln)
+  |  2.5% Gurunsi (0.1 mln)
+  |  1.1% BissaMande (0.1 mln)
+  |  1.6% Other (0.1 mln)
+ }} |ethnic_groups_year = 2010 |demonym = Ghanaian |membership =
+ |membership_type = |government_type = |leader_title1 = President |leader_name1
+ = Nana Akufo-Addo |leader_title2 = Vice-President |leader_name2 = Mahamudu
+ Bawumia |leader_title3 = |leader_name3 = |legislature = Parliament
+ |sovereignty_type = Independence |established_event1 = Declared
+ |established_date1 = 6 March 1957 |established_event2 = Republic
+ |established_date2 = 1 July 1960 |established_event3 = Current constitution
+ |established_date3 = 28 April 1992 |area_km2 = 239,567 |area_rank = 80th
+ |area_sq_mi = 92,099 |percent_water = 4,247&nbsp;mi)}} |population_estimate =
+ 27,043,093 |population_census = 24,200,000 |population_estimate_year = 2014
+ |population_estimate_rank = 45th |population_census_year = 2010
+ |population_density_km2 = 101.5 |population_density_sq_mi = 258.8
+ |population_density_rank = 103rd |GDP_PPP = $130.208 billion |GDP_PPP_year =
+ 2017 |GDP_PPP_rank = 70th |GDP_PPP_per_capita = $4,604 |GDP_PPP_per_capita_rank
+ = 126th |GDP_nominal = $45.464 billion |GDP_nominal_year = 2017
+ |GDP_nominal_rank = 69th |GDP_nominal_per_capita = $1,607
+ |GDP_nominal_per_capita_rank = 126th |Gini = 42.8 |Gini_year = 2006
+ |Gini_change = |Gini_ref = |Gini_rank = |HDI = 0.579 |HDI_year = 2015
+ |HDI_change = increase |HDI_ref = |HDI_rank = 139th |currency = Ghana cedi
+ (GH₵) |currency_code = GHS |time_zone = GMT |utc_offset = +0 |drives_on = right
+ |calling_code = +233 |cctld = .gh |area_magnitude = 1 E11 |country_code = GH }}
+
+'Ghana' (), officially the 'Republic of Ghana', is a unitary presidential
+constitutional democracy, located along the Gulf of Guinea and Atlantic Ocean,
+in the subregion of West Africa. Spanning a land mass of , Ghana is bordered by
+the Ivory Coast in the west, Burkina Faso in the north, Togo in the east and the
+Gulf of Guinea and Atlantic Ocean in the south. Ghana means "Warrior King" in
+the Soninke language.Jackson, John G. (2001) Introduction to African
+Civilizations, Citadel Press, p. 201, .
+
+The first permanent state in the territory of present-day Ghana dates back to
+the 11th century. Numerous kingdoms and empires emerged over the centuries, of
+which the most powerful was the Kingdom of Ashanti. Beginning in the 15th
+century, numerous European powers contested the area for trading rights, with
+the British ultimately establishing control of the coast by the late 19th
+century. Following over a century of native resistance, Ghana's current borders
+were established by the 1900s as the British Gold Coast. It became independent
+of the United Kingdom on 6 March 1957.
+
+Ghana's population of approximately 29 million spans a variety of ethnic,
+linguistic and religious groups. Five percent of the population practices
+traditional faiths, 67.2% adhere to Christianity and 23.6% are Muslim. Its
+diverse geography and ecology ranges from coastal savannahs to tropical
+rain forests.
+
+Ghana is a democratic country led by a president who is both head of state and
+head of the government. Ghana's growing economic prosperity and democratic
+political system have made it a regional power in West Africa. It is a member of
+the Non-Aligned Movement, the African Union, the Economic Community of West
+African States (ECOWAS), Group of 24 (G24) and the Commonwealth of Nations.
+
+
+My System Answer: Ghana is located along the Gulf of Guinea and Atlantic Ocean, in the subregion of West Africa

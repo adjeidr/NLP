@@ -1,0 +1,160 @@
+Derrick Adjei
+
+WHEN
+_____________________
+
+Question 1: When was George Washington born?
+
+Correct Answer : George Washington was born on February 22, 1732.
+
+My System Answer : George Washington was born (incorrect)
+
+
+Question 2: When was Kim Kardashian born?
+
+Correct Answer : Kim Kardashian was born October 21, 1980
+
+My System Answer : Kim Kardashian was born October 21, 1980 (correct)
+
+
+Question 3: When is New Year's Eve?
+
+Correct Answer : New Year's Eve is on 31 December.
+
+My System Answer : New Year's Eve is New  (incorrect)
+
+
+Question 4: When was Martin Luther King born?
+
+Correct Answer : text that includes date of 6 June 1944
+
+My System Answer : Martin Luther King was born  New (incorrect)
+
+
+Question 5: When was the Great Depression?
+
+Correct Answer : text that involved 1929 and/or 1930s
+
+My System Answer : the Great Depression was March (incorrect)
+
+WHAT
+_____________________
+Question 1: What is a Bicycle?
+
+Correct Answer : a human-powered, pedal-driven, single-track vehicle, having
+two wheels attached to a frame, one behind the other.
+
+My System Answer : Bicycle is a human-powered, pedal-driven, single-track
+vehicle, having two wheels attached to a frame, one behind the other. (correct)
+
+Question 2: What is a Baby?
+
+Correct Answer : An infant is the more formal or specialised synonym for "baby",
+the very young offspring of a human.
+
+My System Answer : An infant  is the more formal or specialised synonym for
+"baby", the very young offspring of a human. (correct)
+
+Question 3: What is a pencil?
+
+Correct Answer : A pencil is a writing implement or art medium constructed of a
+narrow, solid pigment core inside a protective casing which prevents the core
+from being broken and/or from leaving marks on the user’s hand during use.
+
+My System Answer : pencil is a writing implement or art medium
+constructed of a narrow, solid pigment core inside a protective casing which
+prevents the core from being broken and/or from leaving marks on the user’s hand during use. (correct)
+
+Question 4: What is an apple?
+
+Correct Answer : An apple is a sweet, edible fruit produced by an apple tree.
+
+My System Answer : I am sorry, I don't know the answer. (incorrect)
+
+Question 5: What is the Met Gala?
+
+Correct Answer : The Met Gala is an annual fundraising gala for the benefit of
+the Metropolitan Museum of Art's Costume Institute in New York City.
+
+My System Answer : Met Gala is held annually. (incorrect)
+
+WHO
+_____________________
+Question 1: Who is Barack Obama?
+
+Correct Answer : Barack Hussein Obama II  is an American politician who served
+as the 44th President of the United States from January 20, 2009 to January 20, 2017.
+
+My System Answer : Barack Hussein Obama II  is an American politician who served
+as the 44th President of the United States from January 20, 2009 to January 20, 2017. (correct)
+
+Question 2: Who is LeBron James?
+
+Correct Answer : LeBron Raymone James Sr. is an American professional basketball
+player for the Cleveland Cavaliers of the National Basketball Association (NBA).
+
+My System Answer : LeBron James is an American professional basketball player
+for the Cleveland Cavaliers of the National Basketball Association (correct)
+
+Question 3: Who is Kanye West?
+
+Correct Answer : Kanye Omari West is an American rapper, songwriter, entrepreneur and fashion designer.
+
+My System Answer : Kanye Omari West  is an American rapper, songwriter, entrepreneur and fashion designer. (correct)
+
+Question 4: Who are The Beatles?
+
+Correct Answer : The Beatles were an English rock band formed in Liverpool in 1960.
+
+My System Answer : The Beatles were an English rock band formed in Liverpool in 1960. (correct)
+
+Question 5: Who was the first man to climb Mount Everest?
+
+Correct Answer : Sir Edmund Percival Hillary
+
+My System Answer : I am sorry, I don't know the answer. (incorrect)
+
+WHERE
+_____________________
+Question 1: Where was George Washington born?
+
+Correct Answer : Popes Creek, Colony of Virginia, British America
+
+My System Answer : George Washington  was born in  Popes Creek, Colony of Virginia, British America death_date =  (correct)
+
+Question 2: Where is Richmond, Virginia?
+
+Correct Answer : located at the fall line of the James River, 44 miles (71 km)
+west of Williamsburg, 66 miles (106 km) east of Charlottesville, and 98 miles
+(158 km) south of Washington, D.C. Surrounded by Henrico and Chesterfield counties,
+the city is located at the intersections of Interstate 95 and Interstate 64, and
+encircled by Interstate 295 and Virginia State Route 288.
+
+My System Answer : Richmond, Virginia located at the fall line of the James
+River, west of Williamsburg, east of Charlottesville, and south of Washington, D. (correct)
+
+Question 3: Where is the tallest mountain in the world?
+
+Correct Answer : Located on the edge of the Indian subcontinent and Tibet, with some peaks in Central Asia.
+
+My System Answer : I am sorry, I don't know the answer. (incorrect)
+
+Question 4: Where is Dallas?
+
+Correct Answer : a city in the U.S. state of Texas.
+
+My System Answer : Dallas is located in North Texas, Dallas is the main core of
+the largest metropolitan area in the South and the largest inland metropolitan area
+in the United States that lacks any navigable link to the sea (incorrect)
+
+Question 5: Where was Abraham Lincoln death?
+
+Correct Answer : Washington D.C.
+
+My System Answer : I am sorry, I don't know the answer. (incorrect)
+
+Question 5: Where is the Dalai Lama?
+
+Correct Answer :  the Dalai Lama is Located in Tibet.
+
+My System Answer : the Dalai Lama Located (incorrect)
